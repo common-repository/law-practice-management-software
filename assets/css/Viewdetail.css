@@ -1,0 +1,49 @@
+.x_content{padding:0px;}
+
+.x_panel{border:none; padding: 20px 15px; margin-bottom: 21px;}
+
+.media-body{width: 53%;float: left; line-height: 1.471;}
+.media:first-child {
+    position: relative;}
+.eye{font-size: 25px; right: 22px; position: absolute;top: 18px;}
+a>.btn-default
+	{
+	font-size: 12px;
+    padding: 5px;
+    background: #CCCCCC;
+    color: #fff;
+    margin-top: -5px;
+	}
+	
+.media1 .date 
+   {
+    background: #ccc;
+    width: 52px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.media1 .date .day {
+    font-size: 27px ;
+    line-height: 27px ;
+    font-weight: 700;
+	margin: 0 ;
+    text-align: center;
+    color: #fff;
+}
+/* .month {
+    margin: 0;
+	font-size: 15px;
+    text-align: center;
+    color: #fff;
+} */
+h5
+{
+font-size: 14px ;
+font-weight: 500;
+}
+.nav li:hover a {
+    border: none;
+    background: none;
+   
+}

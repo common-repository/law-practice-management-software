@@ -1,0 +1,923 @@
+@media only screen and (max-width : 1200px) 
+{
+	.nav-tab-wrapper,ul.bar_tabs	
+	{
+		border-bottom: 0!important;
+	}
+	.menucss
+	{
+		margin: 5px!important;
+	}
+	#private_notes,#description
+	{
+		 width: 285px!important;
+	}
+	.col-md-8.membr_left 
+	{
+		width: 100%!important;		
+	}
+	.membr_left .col-md-6.right_side
+	{  
+		width: 100%!important;
+	}
+	.col-md-6.left_side
+	{		
+		width: 100%!important;
+	}
+	.table_row .table_td 
+	{
+		padding: 5px 5px !important;
+	}
+	.col-md-4.member_right 
+	{		
+		width: 100%!important;
+		margin-left: 0%!important;
+	}
+	.col-md-8.membr_left 
+	{
+		margin-bottom: 10px!important;
+	}
+	.page-title .title_left 
+	{
+		width: 100%!important;
+	}	
+	.x_title h2 
+	{		
+		font-size: 13px!important;
+	}
+	.radio input[type=radio], .radio-inline input[type=radio]
+	{		
+		margin-left: -30px!important;
+	}
+	.margin_top_res
+	{
+		margin-top: 15px;
+	}
+	label.col-lg-2.col-md-2.col-sm-2.col-xs-12.control-label
+	{
+		text-align: unset;
+	}
+	
+}
+@media only screen and (max-width : 992px) 
+{	
+	.content_width
+	{
+		width:60%!important;
+	}
+	.overlay-content
+	{
+		left: 30%;
+	}
+	#private_notes,#description
+	{
+		 width: 220px!important;
+	}
+	.ui-dialog
+	{
+		width: 410px!important;
+		left: 220px!important; 
+	}	
+	.x_title h2 
+	{		
+		font-size: 14px!important;
+	}
+}
+@media only screen and (max-width : 768px) 
+{	
+	.overlay-content
+	{
+		left: 20%;
+	}
+	.content_width
+	{
+		width: 87%!important;
+	}	
+	.page-title h3 
+	{
+		font-size: 14px!important;
+	}	
+	#group,.company_csv_file,.contact_csv_file,.tages_add,.addtages_documents,#customfieldtype_value,#practice_area_name,#practice_area,#stafflink_attorney,#apply_workflow_name,#replay_message_body
+	{
+		margin-bottom: 10px!important;
+	}
+	#private_notes,#description
+	{
+		 width: 180px!important;
+	}
+	.membr_left .col-md-6.right_side
+	{  
+		width: 100%!important;
+	}
+	.col-md-6.left_side
+	{		
+		width: 100%!important;
+	}
+	.table_row .table_td 
+	{
+		padding: 5px 5px !important;
+	}
+	.col-md-4.member_right 
+	{		
+		width: 100%!important;
+		margin-left: 0%!important;
+	}
+	.col-md-8.membr_left 
+	{
+		margin-bottom: 10px!important;
+	}
+	h2 .menucss
+	{
+		margin-top: 10px!important;   
+		border-bottom: 1px solid #ccc!important;
+	}
+}	
+@media only screen and (max-width : 480px) 
+{	
+	
+	#form_scroll
+	{	
+		height: 350px;
+		overflow: scroll;
+	}	
+	
+	#group_form
+	{	
+		height: 350px;
+		overflow: scroll;
+	}
+	#addremove
+	{
+		margin-left: 10px!important;
+	}
+	#group_name
+	{
+		margin-bottom:10px!important;
+	}
+	#private_notes,#description
+	{
+		 width: 330px!important;
+	}
+	.fc-toolbar .fc-right 
+	{
+		float: left;
+		width: 100%;
+		padding-top:10px;
+		padding-bottom: 10px;
+	}
+	.x_title h2 
+	{		
+		font-size: 13px!important;
+	}
+	.ui-dialog
+	{
+		width: 410px!important;
+		left: 39px!important; 
+	}	
+	.fronted_title_css h3 
+	{
+		font-size: 11px!important;
+	}		
+}	
+@media only screen and (max-width : 360px) 
+{	
+	
+	#private_notes,#description
+	{
+		 width: 210px!important;
+	}
+	.ui-dialog
+	{
+		width: 290px!important;		
+	}
+	
+}
+
+/*----------------- New CSS updated (30-07-2019) ------------------ */
+
+@media screen and (max-width : 767px) and (min-width : 320px) {
+	
+	
+	.left_col 
+	{
+		background:#F1F4F9 !important; 
+	}
+	
+
+	body .container.body .right_col 
+	{
+		background: #F1F4F9 !important;
+	}
+	.container_padding .right_col
+	{
+		padding: 0px!important;
+	}
+	.x_title h2
+	{
+		    overflow: unset !important;
+	}
+	.panel .panel-body 
+	{
+		position: relative;
+		padding: 10px;
+		border-bottom-left-radius: 0;
+		border-bottom-right-radius: 0;
+	}
+	.panel-body h2
+	{
+		margin-bottom: 15px !important;
+		margin-top: 0px !important;
+		font-family: open sans;
+	}
+ .dataTables_length 
+	{
+		width: 100% !important;
+	} 
+	div.dataTables_wrapper div.dataTables_filter input 
+	{
+		margin-left: 0.5em;
+		display: inline-block;
+		width: 160px !important;
+	}
+	.btn_margin
+	{
+		margin-top:10px !important;
+	}
+	.auto-fold #wpcontent
+	{
+		position: relative;
+		margin-left: 0;
+		padding-left: 0px !important;
+	}
+	 .dataTables_filter	
+	{
+		float: left;
+		text-align: center;
+		width:100% !important;
+	}
+	 /*  .dataTables_info	
+	{
+		    position: relative !important;
+			float: left !important;
+			top: 50% !important;
+			left: 25% !important;
+	}  */
+	input[type=checkbox]{
+		    height: 20px !important;
+			width: 20px !important;
+	}
+	.overlay-content 
+	{
+		background: #ffffff none repeat scroll 0 0;
+		border-radius: 4px;
+		box-shadow: 0 0 5px rgba(0, 0, 0, 0.9);
+		cursor: default;
+		float: left;
+		left: 20%;
+		margin: 0 0 0 -13%;
+		padding: 10px 10px 10px;
+		position: fixed;
+		top: 6%;
+		width: 86% !important;
+	}
+	#group_form 
+	{
+		height: 350px;
+		overflow: unset !important;
+	}
+	.category_listbox 
+	{
+		height: 170px !important;
+		overflow: scroll;
+		float: left;
+		margin-bottom: 10px;
+		width: 100%;
+	}
+ 
+	.case_year{
+		width: 115px !important;
+	}
+	.case_year_close{
+		width: 115px !important;
+		margin-bottom:10px;
+	}
+	.filter_lable,.filter_lable_doc{
+		margin-left:10px;
+	}
+	.document_filter,.dawnlod_botttom{
+		margin-bottom:10px !important;
+	}
+	.height_h2{
+		height:160px;
+		
+	}
+	.margin_template{
+		margin-top:65px;
+	}
+	.margin_next_hearing_date{
+		margin-top:15px;
+	}
+	.float_template{
+		float:unset !important;
+	}
+	.case_info_div ,.task_detail_div,.event_detail_div{
+		float:left !important;
+	}
+	.main_div{
+		margin:0px !important;
+	}
+	.system_logo 
+	{
+		max-height: 140px;
+		padding: 0px 6px 0px 40px;
+		margin-left: -50px !important; 
+		width: 110px !important;
+	}
+	.billed_to_lable
+	{
+		width:100px !important;
+	}
+	 .invoice_body h3{
+		 font-weight: 600!important;
+		font-size: 14px!important;
+	 }
+	.padding_11 {
+		padding-bottom: 5px !important;
+		padding-top: 5px !important;
+	}
+	.width_54 
+	{
+		width: 54%;
+		float: right;
+		margin-bottom:0px !important;
+	}
+	.panel .invoice_wrappwr ,.panel .margin_bottom{
+		 margin-bottom: 30px !important;
+	}
+	.panel .margin_bottom_invoice {
+		 margin-bottom: 44px !important;
+	}
+	.margin_panel{
+		margin-top:85px;
+	}
+	.margin_cases{
+		margin-top:25px;
+	}
+	.contact_margin{
+		margin-top:350px;
+	}
+	.contact_margin_add{
+		margin-top:280px;
+	}
+
+	 .panel .margin_bottom_jugdment{
+		margin-bottom:80px !important;
+	}
+	.panel .margin_bottom_cuase{
+		margin-bottom:15px !important;
+	}
+	.panel .margin_bottom_zero{
+		margin-bottom:0px !important;
+	}
+	.margin_bottomm_next{
+		margin-bottom:30px !important;
+	}
+	.panel .margin_cause{
+		margin-top:10px !important;
+	}
+	.margin_panel_cases{
+		margin-top:90px !important;
+	}
+	.invoicefont1{
+		margin-top:15px !important;
+	}
+	.margin_task
+	{
+		margin-top:40px !important;
+	}
+	.margin_task_to_template 
+	{
+		margin-top: 70px;
+	}
+	.margin_task_to{
+		margin-top:60px;
+	}
+	.margin_document_to{
+		margin-top:70px;
+	}
+	.margin_document{
+		margin-top:78px;
+	}
+	ul.bar_tabs>li a {
+		padding: 10px 17px !important;
+	}
+	/* .margin_left_access{
+		margin-left:8px;
+	} */
+	.filter_lable_case_dairy 
+	{
+		width: 160px !important;
+		margin-top: 0px;
+		margin-left: 0px !important;
+	}
+	.filter_lable_task_to
+	{
+		width: 50px !important;
+		margin-top: -7px;
+	}	
+	.btn-go{
+		margin-left:-7px !important;
+	}
+	.gender_margin
+	{
+		margin-left:8px;
+		margin-top:-5px;
+	}
+	.attorny_default_rate{
+		margin-left:10px !important;
+	}
+	.membr_left img
+	{
+		height: 200px !important;
+		width: 200px;
+	}
+	.eye
+	{
+		font-size: 25px;
+		right: 10px !important;
+		position: absolute;
+		top: 25px !important;
+	}
+	.last_name_margin
+	{
+		margin-top:-10px;
+	}
+	.formError .formErrorContent
+	{
+		min-width: 90px !important;
+		margin-left: -15px;
+	}
+	.user-profiles {
+		margin-top: 0px;
+	}
+	.mt_120 {
+		margin-top: 0px;
+	}
+	.acc_save_btn {
+		margin-left: 0px;
+	}
+	#wpbody select 
+	{
+		height: 36px;
+		font-size: 13px !important;
+	}
+	.form-group .btn 
+	{
+		 margin-bottom: 0px !important; 
+	}
+	.multiselect-selected-text{
+		font-size:13px !important;
+	}
+	.event_detail_div, .task_detail_div, .compay_detail_div, .event_detail_div 
+	{
+		border: 1px solid #ddd;
+		margin-top: 15px;
+		padding: 10px;
+		margin-bottom: 25px;
+	}
+	#private_notes, #description 
+	{
+		width: 222px!important;
+	}
+	 #description1 
+	{
+		width: 239px!important;
+	}
+	.workflow_event{
+		margin-top:20px !important;
+	}
+	 
+	.expense_header{
+		margin-top:60px !important;
+	}
+	.invoice_heading
+	{
+		margin-top:75px;
+	}
+	.invoice_heading_new
+	{
+		margin-top:130px !important;
+	}
+	.validation_label
+	{
+		margin-bottom:10px !important;
+	}
+	 .contact_margin_template
+	{
+		margin-top:275px !important;
+	}
+	 
+	 .panel-group .panel-heading .panel-title>a 
+	 {
+		font-size: 12px !important;
+	}
+	.contact ul.bar_tabs>li a 
+	{
+		padding: 8px 10px !important;
+	}
+	.profile_right{
+		width:66% !important;
+	}
+	.judgment_acesssright{
+		display:block;
+	}
+	.judgment_acesssright1{
+		display:none;
+	}
+	.work_flow_accsessright{
+		display:block;
+	}
+	.work_flow_accsessright1{
+		display:none;
+	}
+	.document_accessright{
+		display:block;
+	}
+	.document_accessright1{
+		display:none;
+	}
+	.message_accessright{
+		display:block;
+	}
+	.message_accessright1{
+		display:none;
+	}
+	.accountant_accessright{
+		display:block;
+	}
+	.accountant_accessright1{
+		display:none;
+	}
+	.radio-inline {
+    
+		padding-left: 25px !important;
+     
+	}
+	.group_listbox
+	{
+		min-height: 222px;
+	}
+	.res_label
+	{
+		margin-top:-10px;
+	}
+	.doc_label
+	{
+		margin-top:10px !important;
+	}
+	.tsk_label_new
+	{
+		margin-top:55px !important;
+	}
+	.date_css
+	{
+		width:192px !important;
+	}  
+	.feedback_responsive
+	{
+		margin-top: 12px!important;
+	}
+	.span_left_custom
+	{
+		margin-left: 5px!important;
+	}
+	/* .menu_left
+	{
+		margin-left: -10px!important;
+	} */
+	.radio_left
+	{
+		margin-left: 5px!important;
+	}
+	.font_size_access
+	{
+		font-size:10px;
+	}
+	.txt_color 
+	{
+		width: 150px !important;
+	}
+	.my_css_report 
+	{
+		margin-top: 160px !important;
+	}
+	.profile_image_margin
+	{
+		margin-top: 1164px !important;
+	}
+	.profile-cover
+	{
+		margin-top: 50px;
+	}
+	  .height_h2_new 
+	{
+		height: 50px;
+	} 
+	.tab_invoice 
+	{
+		height: 35px;
+	} 
+	.tab_invoice_new 
+	{
+		height: 150px;
+	}  
+	.row_div_pading_client 
+	{
+		padding: 0px 20px;
+	}
+	.row_div_pading 
+	{
+		padding: 0px 20px;
+	}
+	.close_padding{
+		padding: 0px !important;
+	}
+	ul.bar_tabs
+	{
+		height: auto !important;
+	}
+	.reminder_top_bottom_Res
+	{
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	.workflow_top_10
+	{
+		margin-top: 10px;
+	}
+}
+
+@media screen and (max-width : 768px) and (min-width : 360px) {
+	 
+	.margin_left_access_minus
+	{
+		margin-left:5px;
+	}
+	.margin_left_access1
+	{
+		margin-left:10px;
+	}
+	.my_tab_css
+	{
+		 width:85% !important;
+	}
+	
+	
+}
+@media screen and (max-width : 359px) and (min-width : 320px) {
+	.dataTables_info
+	{
+		margin-left:37px !important;
+	}
+	.pagination
+	{
+		margin-left:35px !important;
+	}
+	.x_title 
+	{
+		border-bottom: 2px solid #E6E9ED;
+		padding: 0px !important;
+	}
+	
+}
+@media screen and (max-width : 640px) and (min-width : 360px) {
+	/* .dataTables_info
+	{
+		margin-left:63px !important;
+	}
+	.pagination{
+		margin-left:60px !important;
+	} */
+	
+	
+}
+@media screen and (max-width : 676px) and (min-width : 401px) {
+	
+	.margin_cases 
+	{
+    margin-top: -38px;
+}
+	
+	
+}
+@media screen and (max-width : 767px) and (min-width : 641px) {
+	.dataTables_info
+	{
+		margin-left:80px !important;
+	}
+	.pagination{
+		margin-left:75px !important;
+	}
+	
+	
+}
+/*---------------- For Tablate ---------------*/
+
+@media screen and (max-width : 1024px) and (min-width : 768px) {
+	
+	.auto-fold #wpcontent
+	{
+		position: relative;
+		margin-left: 0;
+		padding-left: 0px !important;
+	}
+	.margin_cases 
+	{
+		margin-top: 35px;
+	}
+}
+
+ /*-------------- MENU --------------------- */
+ @media only screen and (max-width: 991px)
+{
+.template_new .col-sm-2.nopadding.apartment_left
+{
+width: 100%;
+position: relative;
+}
+.nav-side-menu
+{
+width: 100%;
+margin-top: 65px;
+margin-bottom: 10px;
+}
+.nav-side-menu .toggle-btn
+{
+
+float:right !important;
+cursor: pointer;
+font-size: 27px;
+height: 32px;
+padding: 10px;
+width: 48px !important;
+}
+.nav-side-menu .toggle-btn, .nav-side-menu .brand
+{
+background: #2e353d none repeat scroll 0 0;
+color: #ffffff;
+display: block;
+position: relative;
+width: 100%;
+z-index: 4;
+}
+.nav.nav-pills.nav-stacked.collapse.in
+{
+background: #2e353d none repeat scroll 0 0;
+margin-top: 0;
+position: absolute;
+width: 100%;
+z-index: 4;
+}
+.padding_top_menu
+{
+	padding-top:0px;
+}
+.nav.side-menu>li.active
+{
+	margin-right: 0px!important;
+}
+.collapse.menu-sec
+{
+display: initial;
+}
+.brand
+{
+text-align: left !important;
+font-size: 22px;
+padding-left: 20px;
+line-height: 50px !important;
+height:50px;
+}
+.collapse
+{
+display:none !important;
+}
+.collapse.in {
+   display: block !important;
+}
+}
+@media screen and (max-width : 575px) and (min-width : 319px) {
+	.dashboard_margin_top{
+		margin-top: 15px;
+	}
+}
+@media screen and (max-width : 1024px) and (min-width : 767px) 
+{
+	ul.bar_tabs
+	{
+		height: auto !important;
+	}
+}
+@media screen and (max-width : 567px) and (min-width : 319px) 
+{
+	li.menucss.accesstabs
+	{
+		margin-top: 0px !important;
+	}
+}
+@media screen and (max-width : 1024px) and (min-width : 568px) 
+{
+	li.menucss.accesstabs
+	{
+		margin-top: 13px !important;
+	}
+}
+@media screen and (max-width : 604px) and (min-width : 319px) 
+{
+	.form-group.padding_bottom_20px.height_30px
+	{
+		margin-bottom: 30px ;
+	}
+	input#lmgt_case_hearing_date_remainder
+	{
+		margin-bottom: 10px;
+	}
+	nav.col-md-6.col-sm-6.col-xs-10.profile_height
+	{
+		float: none;
+	}
+	.col-md-6.col-sm-6.col-xs-2.top
+	{
+		float: none;
+	}
+}
+@media only screen and (max-width : 575px) 
+{
+	.dis_block_res
+	{
+		display: block !important;
+	}
+}	
+@media only screen and (max-width : 991px) 
+{	
+	.apartment_left>.collapse
+	{
+		display: none !important;
+	}
+	.apartment_left>.collapse.show
+	{
+		display: block !important;
+	}
+}
+@media screen and (max-width : 767px) and (min-width : 567px) 
+{
+	.row.header_card_height.dis_block_res
+	{
+		margin-bottom: 15px;
+	}
+}
+@media only screen and (max-width : 920px) 
+{
+	.nopadding 
+	{
+		width: 100% !important;
+		position: relative !important;
+	}
+	.nav-md .container.body .right_col
+	{
+		margin-top: -10px !important;
+	}
+	.lms_subname
+	{
+		display: none;
+	}
+	.my_width 
+	{
+		width: 100% !important;  
+	}
+}	
+@media screen and (max-width : 990px) and (min-width : 921px) 
+{
+	.apartment_left>.collapse{
+		display: block !important;
+	}
+	.brand
+	{
+		display: none !important;
+	}
+	.my_width {
+		width: 200px !important;
+	}
+	.right_col.page_body_padding
+	{
+		margin-left: 200px !important;
+	}
+}
+@media screen and (max-width : 1024px) and (min-width : 768px) 
+{
+	.row.style_padding_0px_21px_css
+	{
+		display: block;
+	}
+}
+

@@ -1,0 +1,86 @@
+.nav-md .container.body .right_col 
+{
+   margin-left: 0px!important;
+   margin-right: 230px;
+}
+.main_container .top_nav
+{
+    margin-right: 230px!important;
+    margin-left: 0px!important;
+}
+.top_nav .navbar-right 
+{
+    width: 100%!important;
+} 
+.top_nav .navbar-right li 
+{
+    float: left!important;
+}
+.lawyer_fronted_left_menu .icone 
+{
+    float: right!important;
+}
+.nav-tabs>li 
+{
+    float: right!important;
+}
+.tile-stats .icon
+{
+	right: 180px!important;
+}
+.tile-stats .count, .tile-stats h3, .tile-stats p
+{
+	margin: 4px 13px 0px 10px!important;
+}
+.page-title .title_left 
+{
+    width: 100%!important;
+}
+.dataTables_filter
+{
+	float:left!important;
+}
+div.dataTables_wrapper div.dataTables_filter
+{
+    text-align: left!important;
+}
+.dataTables_length 
+{
+    float:right!important;
+}
+.dataTables_paginate 
+{
+    float: left!important;
+}
+.dataTables_info 
+{
+    float: right!important;
+}
+.dropdown-menu
+{
+   right: auto!important;		
+}	
+.attorny_default_rate
+{
+	float: right!important;
+}
+.form-horizontal .has-feedback .form-control-feedback
+ {
+    right: 15px;
+    left: auto;
+}
+.form-control.has-feedback-left
+{
+    padding-right: 45px!important;
+	padding-left: 0px!important;
+}
+.form-control-feedback.left
+{
+    border-right: 0px solid #ccc!important;
+    border-left: 1px solid #ccc!important;
+	right: 13px!important;
+}	
+.txt_color 
+{
+   float: right!important;
+}	

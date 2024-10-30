@@ -1,0 +1,12 @@
+.multiselect-container .multiselect-group>span>.form-check-label, .multiselect-container>.multiselect-option>span>.form-check-label
+{
+  margin:0 !important;
+}
+.multiselect-all span.form-check label.form-check-label.font-weight-bold
+{
+  margin: 0 !important;
+}
+.multiselect-all span.form-check
+{
+    margin-left: 25px !important;
+}
